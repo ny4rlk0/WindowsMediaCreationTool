@@ -1,3 +1,7 @@
+<br> İndir / Download: https://github.com/ny4rlk0/WindowsMediaCreationTool/archive/refs/heads/main.zip
+<br> Admin Olarak Çalıştır / Run as Admin : MediaCreationTool.bat
+
+
 Not just an Universal MediaCreationTool wrapper script with ingenious support for business editions,  
 <img src="preview.png">  
 A powerful yet simple windows 10 / 11 deployment automation tool as well!  
